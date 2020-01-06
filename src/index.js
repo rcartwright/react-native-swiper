@@ -476,7 +476,7 @@ export default class extends Component {
     let loopJump = false
 
     // Do nothing if offset no change.
-    if (!diff) return
+    //if (!diff) return
 
     // Note: if touch very very quickly and continuous,
     // the variation of `index` more than 1.
